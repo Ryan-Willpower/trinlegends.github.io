@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["lTH1Q"]); }
+
+__d('AdsCampaignPromotedObjectSetOfflineOptimizationFieldsDataAction',['AdsCampaignPromotedObjectSetOfflineOptimizationFieldsDataActionPlugin','AdsDataActionCreator'],(function a(b,c,d,e,f,g){'use strict';var h=c('AdsDataActionCreator').create([],c('AdsCampaignPromotedObjectSetOfflineOptimizationFieldsDataActionPlugin'));f.exports=h;}),null);

@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["hwrYq"]); }
+
+__d('BoostedAutomatedAdsTargetingPlanInfoV2.react',['cx','BUIAdoptionXUIText.react','React'],(function a(b,c,d,e,f,g,h){'use strict';function i(j){return c('React').createElement('div',{className:j.className},c('React').createElement('div',{className:"_1qpf"},c('React').createElement(c('BUIAdoptionXUIText.react'),{shade:'dark',size:'medium',weight:'bold'},j.targetingGroup)),c('React').createElement(c('BUIAdoptionXUIText.react'),{display:'block',shade:'light',weight:'normal'},j.targetingGroupExplanation));}f.exports=i;}),null);
